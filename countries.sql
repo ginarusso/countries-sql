@@ -22,7 +22,7 @@ INSERT INTO countries (
     ('Brazil', 'Brasilia', 209500000, 2),
     ('Argentina', 'Buenos Aires', 44940000, 2),
     ('Colombia', 'Bogota', 50340000, 2),
-    ('France', 'Paris', 67060000, 3),t
+    ('France', 'Paris', 67060000, 3),
     ('Germany', 'Berlin', 83020000, 3),
     ('Italy', 'Rome', 60360000, 3),
     ('China', 'Beijing', 1393000000, 4),
