@@ -34,5 +34,4 @@ INSERT INTO countries (
     ('Australia', 'Canberra', 25400000, 6),
     ('New Zealand', 'Wellington', 5000000, 6),
     ('Papua New Guinea', 'Port Moresby', 8600000, 6),
-    ('Antarctica', 'N/A', 1000, 7
-);
+    ('Antarctica', 'N/A', 1000, 7);
